@@ -1,11 +1,31 @@
-# Fayyaz Shamsi Portfolio
+# Shamsi — GoHighLevel & Automation Specialist
 
-A responsive static portfolio website for Fayyaz Shamsi, GoHighLevel specialist, automation builder, and web designer.
+> I build practical CRM, automation, AI, and website systems that help businesses capture, convert, and retain more leads.
 
-## Run locally
+## What I do
 
-Open `index.html` in a browser. No build process or dependencies are required.
+- **GoHighLevel systems** — CRM setup, workflows, pipelines, calendars, forms, sub-accounts, snapshots, and reporting
+- **Automation & integrations** — n8n, Make, Zapier, webhooks, APIs, Twilio, Stripe, Google Workspace, and custom data flows
+- **Funnels & websites** — responsive funnels, landing pages, and high-converting business websites
+- **AI lead conversion** — AI voice agents, Conversation AI, reminders, reactivation, and no-show recovery
 
-## Publish with GitHub Pages
+## Selected work
 
-In the repository settings, open **Pages**, choose **Deploy from a branch**, then select the `main` branch and `/(root)` folder. GitHub will provide the public website URL.
+| Project | Focus | Link |
+|---|---|---|
+| GHL Labs | GoHighLevel and automation solutions | [Visit site](https://ghllabs.com) |
+| Automation Hub | Connected business systems | [Visit site](https://automationhub.solutions) |
+| Unity Volleyball | Website, lead flow, and follow-up | [Visit site](https://unityvolleyball.ca) |
+| Pet Food Mart | Shopify storefront and collection experience | [Visit site](https://petfoodmart.co.uk) |
+
+## Core tools
+
+`GoHighLevel` · `n8n` · `Make` · `Zapier` · `Twilio` · `Stripe` · `OpenAI` · `Shopify` · `Cloudflare`
+
+## Portfolio
+
+This repository contains my responsive portfolio website. Open `index.html` locally, or publish the repository with GitHub Pages.
+
+---
+
+**Open to select automation, CRM, and website projects.**
