@@ -1,1 +1,1 @@
-document.querySelectorAll('a[href="#"]').forEach(link=>link.addEventListener('click',event=>{event.preventDefault();window.scrollTo({top:0,behavior:'smooth'});}));
+document.querySelectorAll('[data-slider]').forEach(button=>{button.addEventListener('click',()=>{const slider=document.getElementById(button.dataset.slider);const amount=Math.round(slider.clientWidth*.86)*Number(button.dataset.direction);slider.scrollBy({left:amount,behavior:'smooth'});});});
