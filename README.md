@@ -1,31 +1,34 @@
-# Shamsi — GoHighLevel & Automation Specialist
+# Fayyaz Shamsi — CRM & Automation Portfolio
 
-> I build practical CRM, automation, AI, and website systems that help businesses capture, convert, and retain more leads.
+A premium portfolio for **Fayyaz Shamsi**, a GoHighLevel, CloseBot and AI automation specialist.
 
-## What I do
+## What I build
 
-- **GoHighLevel systems** — CRM setup, workflows, pipelines, calendars, forms, sub-accounts, snapshots, and reporting
-- **Automation & integrations** — n8n, Make, Zapier, webhooks, APIs, Twilio, Stripe, Google Workspace, and custom data flows
-- **Funnels & websites** — responsive funnels, landing pages, and high-converting business websites
-- **AI lead conversion** — AI voice agents, Conversation AI, reminders, reactivation, and no-show recovery
+- GoHighLevel CRM systems, pipelines, workflows and snapshots
+- CloseBot AI conversation design, qualification and appointment booking
+- Automation and integrations using n8n, Make, Zapier, webhooks and APIs
+- High-converting funnels, landing pages and responsive websites
 
-## Selected work
+## Featured work
 
-| Project | Focus | Link |
-|---|---|---|
-| GHL Labs | GoHighLevel and automation solutions | [Visit site](https://ghllabs.com) |
-| Automation Hub | Connected business systems | [Visit site](https://automationhub.solutions) |
-| Unity Volleyball | Website, lead flow, and follow-up | [Visit site](https://unityvolleyball.ca) |
-| Pet Food Mart | Shopify storefront and collection experience | [Visit site](https://petfoodmart.co.uk) |
+This portfolio currently showcases CloseBot systems for:
 
-## Core tools
+- Healthcare patient appointment booking
+- Real-estate service and agent routing
+- Solar consultation booking
+- Client feedback and support outcomes
 
-`GoHighLevel` · `n8n` · `Make` · `Zapier` · `Twilio` · `Stripe` · `OpenAI` · `Shopify` · `Cloudflare`
+## Connect
 
-## Portfolio
+- [LinkedIn](https://www.linkedin.com/in/shamsulhaq-gohighlevel/)
+- [Upwork](https://www.upwork.com/freelancers/mshaqbuzdar1122?mp_source=share)
+- [Facebook](https://www.facebook.com/shamsi.ul.haq)
+- [GoHighLevel referral link](https://www.gohighlevel.com/?fp_ref=shamsi_00)
 
-This repository contains my responsive portfolio website. Open `index.html` locally, or publish the repository with GitHub Pages.
+## Tech
+
+HTML · CSS · JavaScript · GoHighLevel · CloseBot · n8n · Make · Zapier
 
 ---
 
-**Open to select automation, CRM, and website projects.**
+More automation projects and case studies will be added here.
